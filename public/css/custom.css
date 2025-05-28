@@ -1,0 +1,48 @@
+.nav-link {
+    display: flex;
+    align-items: center;
+    padding-left: 1rem; /* atur sesuai kebutuhan */
+}
+
+.nav-link-icon {
+    width: 2rem; /* pastikan lebar tetap */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.5rem; /* beri jarak antara icon dan teks */
+}
+
+.nav-link .fa-solid,
+.nav-link .fa-regular,
+.nav-link .fa {
+    font-size: 1.2rem; /* atur ukuran icon */
+}
+
+.topnav.navbar,
+.navbar.bg-white,
+.sidenav.sidenav-light,
+.sidenav {
+    background-color: #00519b !important; /* biru */
+}
+
+.topnav.navbar,
+.topnav.navbar .navbar-brand,
+.topnav.navbar .nav-link,
+.topnav.navbar .dropdown-menu,
+.sidenav .sidenav-menu-heading,
+.sidenav .nav-link,
+.sidenav .sidenav-footer-title,
+.sidenav .sidenav-footer-subtitle {
+    color: #fff !important;
+}
+
+.topnav.navbar .dropdown-menu
+{ background-color: #fff !important;
+    color: #00519b !important; /* opsional: ubah warna teks agar tetap terbaca */
+}
+
+.sidenav-light .sidenav-menu .nav-link .nav-link-icon {
+    color: #fff !important;
+}
+
+

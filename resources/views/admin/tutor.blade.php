@@ -8,7 +8,7 @@
                                     <div class="col-auto mb-3">
                                         <h1 class="page-header-title">
                                             <div class="page-header-icon"><i data-feather="file"></i></div>
-                                            Blank Starter (Minimal)
+                                            Tutor
                                         </h1>
                                     </div>
                                     <div class="col-12 col-xl-auto mb-3">Optional page header content</div>

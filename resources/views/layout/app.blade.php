@@ -67,17 +67,17 @@
                             <!-- Sidenav Link (Reviews)-->
                             <a class="nav-link" href="#">
                                 <div class="nav-link-icon"><i class="fa-solid fa-file-circle-check"></i></div>
-                                Reviews
+                                Penilaian
                             </a>
                             <!-- Sidenav Link (Report)-->
                             <a class="nav-link" href="tables.html">
                                 <div class="nav-link-icon"><i class="fa-solid fa-file"></i></div>
-                                Report
+                                Laporan
                             </a>
                             <!-- Sidenav Link (Schedule)-->
                             <a class="nav-link" href="tables.html">
                                 <div class="nav-link-icon"><i class="fa-solid fa-calendar-days"></i></div>
-                                Schedule
+                                Jadwal
                             </a>
 
                             <!-- Sidenav Heading (Data Master)-->
@@ -85,7 +85,7 @@
                             <!-- Sidenav Link (Students)-->
                             <a class="nav-link" href="tables.html">
                                 <div class="nav-link-icon"><i class="fa-solid fa-user"></i></div>
-                                Students
+                                Mahasiswa
                             </a>
                             <!-- Sidenav Link (Tutors)-->
                             <a class="nav-link" href="tables.html">

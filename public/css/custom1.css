@@ -1,0 +1,11 @@
+.card-header {
+            background-color: #00519b !important;
+            color: #fff !important;
+        }
+.card-header h3 {
+            color: #fff !important;
+        }
+.btn-primary {
+            background-color: #00519b !important;
+            border-color: #00519b !important;
+        }

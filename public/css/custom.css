@@ -45,4 +45,11 @@
     color: #fff !important;
 }
 
-
+/* Tampilan login */
+.card-header {
+            background-color: #00519b !important;
+            color: #fff !important;
+        }
+.edit-bg h3 {
+            color: #fff !important;
+        }

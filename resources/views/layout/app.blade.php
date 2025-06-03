@@ -70,12 +70,12 @@
                                 Penilaian
                             </a>
                             <!-- Sidenav Link (Report)-->
-                            <a class="nav-link" href="tables.html">
+                            <a class="nav-link" href="#">
                                 <div class="nav-link-icon"><i class="fa-solid fa-file"></i></div>
                                 Laporan
                             </a>
                             <!-- Sidenav Link (Schedule)-->
-                            <a class="nav-link" href="tables.html">
+                            <a class="nav-link" href="#">
                                 <div class="nav-link-icon"><i class="fa-solid fa-calendar-days"></i></div>
                                 Jadwal
                             </a>

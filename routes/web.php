@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Route;
 // Route::get('dashboard',[DashboardController::class, 'index']);
 
 Route::view('/','auth.login');
+Route::view('/register','auth.register');
 
 ## Admin Routes
 Route::view('/admin','admin.dashboard');
@@ -20,7 +21,12 @@ Route::view('/admin/mahasiswa','admin.mahasiswa');
 Route::view('/admin/tutor','admin.tutor');
 
 ## Tutor Routes
-Route::view('/mahasiswa','mahasiswa.dashboard');
 Route::view('/tutor','tutor.dashboard');
+Route::view('/tutor/penilaian','tutor.penilaian');
+Route::view('/tutor/jadwal','tutor.jadwal');
 
 ## Mahasiswa Routes
+Route::view('/mahasiswa','mahasiswa.dashboard');
+Route::view('/mahasiswa/penilaian','mahasiswa.penilaian');
+Route::view('/tutor/jadwal','mahasiswa.jadwal');
+

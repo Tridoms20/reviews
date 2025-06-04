@@ -1,6 +1,7 @@
 @extends('layout.auth')
 @section('title', 'Login')
 @section('content')
+
 <div class="container-xl px-4">
     <div class="row justify-content-center">
         <div class="col-lg-5">

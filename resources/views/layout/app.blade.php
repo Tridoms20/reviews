@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Penilaian Kinerja</title>
+        <title>Penilaian Kinerja | KonsultanEdu</title>
         <link href="https://cdn.jsdelivr.net/npm/simple-datatables@7.1.2/dist/style.min.css" rel="stylesheet" />
         <link href="{{ asset('css/styles.css')}}" rel="stylesheet" />
         <link href="{{ asset('css/custom.css')}}" rel="stylesheet" />

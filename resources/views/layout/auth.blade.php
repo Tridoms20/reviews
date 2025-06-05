@@ -17,7 +17,7 @@
         <div id="layoutAuthentication">
             <div id="layoutAuthentication_content">
                 <main>
-                    <div class='d-flex flex-column align-items-center justify-content-center pt-5 '>
+                    <div class='d-flex flex-column align-items-center justify-content-center pt-5'>
                     <img src="{{ asset('assets/img/logo.png') }}" alt="Logo" style="height: 70px;">
                     </div>
                     @yield('content')

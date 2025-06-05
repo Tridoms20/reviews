@@ -7,7 +7,7 @@
                                 <div class="row align-items-center justify-content-between">
                                     <div class="col-auto mt-4">
                                         <h1 class="page-header-title">
-                                            Dashboard
+                                            Dashboard - Admin
                                         </h1>
                                     </div>
                                 </div>

@@ -4,8 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-return new class extends Migration
-{
+return new class extends Migration {
     /**
      * Run the migrations.
      */
@@ -17,9 +16,9 @@ return new class extends Migration
             $table->string('nama_kampus');
             $table->string('nama_fakultas');
             $table->string('nama_prodi');
-            $table->enum('jenjang', ['S1', 'S2', 'S3']);
+            $table->enum('jenjang', ['D3', 'S1', 'S2', 'S3']);
             $table->integer('semester');
-            $table->string('judul_tugas_akhir')->nullable();
+            $table->string('judul_tugas_akhir')->unique();
             $table->timestamps();
         });
     }

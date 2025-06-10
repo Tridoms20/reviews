@@ -24,9 +24,9 @@
                             <div class="mb-3">
                                 <label class="small mb-1" for="password">Password</label>
                                 <div class="input-group">
-                                    <input class="form-control" id="password" name="password" type="password" placeholder="Enter password"
-                                        required />
-                                    <button class="btn btn-outline-primary" type="button" onclick="togglePassword()">
+                                    <input class="form-control" id="password" name="password" type="password"
+                                        placeholder="Enter password" required />
+                                    <button class="btn btn-outline-toggle" type="button" onclick="togglePassword()">
                                         <i class="fa-solid fa-eye" id="toggleIcon"></i>
                                     </button>
                                 </div>

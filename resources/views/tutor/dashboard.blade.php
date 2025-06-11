@@ -1,4 +1,4 @@
-@extends('layout.app')
+@extends('layout.tutor')
 @section('title', 'Dashboard')
 @section('content')
     <header class="page-header page-header-light pb-10">

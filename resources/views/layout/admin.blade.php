@@ -60,22 +60,22 @@
                             <!-- Sidenav Heading (Menu)-->
                             <div class="sidenav-menu-heading">Menu</div>
                             <!-- Sidenav Link (Dashboard)-->
-                            <a class="nav-link" href="#">
+                            <a class="nav-link" href="{{route('admin.dashboard')}}">
                                 <div class="nav-link-icon"><i class="fa-solid fa-house"></i></div>
                                 Dashboard
                             </a>
                             <!-- Sidenav Link (Reviews)-->
-                            <a class="nav-link" href="#">
+                            <a class="nav-link" href="{{route('admin.penilaian')}}">
                                 <div class="nav-link-icon"><i class="fa-solid fa-file-circle-check"></i></div>
                                 Penilaian
                             </a>
                             <!-- Sidenav Link (Report)-->
-                            <a class="nav-link" href="#">
+                            <a class="nav-link" href="{{route('admin.laporan')}}">
                                 <div class="nav-link-icon"><i class="fa-solid fa-file"></i></div>
                                 Laporan
                             </a>
                             <!-- Sidenav Link (Schedule)-->
-                            <a class="nav-link" href="#">
+                            <a class="nav-link" href="{{route('admin.jadwal')}}">
                                 <div class="nav-link-icon"><i class="fa-solid fa-calendar-days"></i></div>
                                 Jadwal
                             </a>

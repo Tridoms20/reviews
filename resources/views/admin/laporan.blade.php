@@ -1,4 +1,4 @@
-@extends('layout.app')
+@extends('layout.admin')
 @section('title', 'Laporan')
 @section('content')
     <header class="page-header page-header-compact page-header-light border-bottom bg-white mb-4">
